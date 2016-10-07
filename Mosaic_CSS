@@ -1,0 +1,65 @@
+/* My Background and Text */
+
+body
+{
+	font-size: 20px;
+	background-image: url(bg_img.jpg);
+	background-attachment: fixed;
+	border-left-style: groove;
+	border-left-color: #00CC00 /* Green */;
+	border-left-width: 15px;
+	border-bottom-style: ridge;
+	border-bottom-color: green;
+	border-bottom-width: 25px;
+	padding-left: 0.5em;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+/* Customizing My Header */
+
+h1
+{
+	text-align: center;
+	border-left-style: groove;
+	border-left-color: #00CC00 /* Green */;
+	border-left-width: 5px;
+	border-bottom-style: ridge;
+	border-bottom-color: green;
+	border-bottom-width: 5px;
+}
+
+/* Modifying Content */
+
+#content
+{
+margin-bottom: 3em;
+margin-top: 3em;
+padding-left: 2%;
+padding-right: 2%;
+border: 1px solid black;
+}
+
+/* Customizing my Text */
+
+p
+{
+	text-indent:1em;
+}
+
+/* Customizing My Image */
+
+img.graphics
+{
+	float: left;
+	height: 30%;
+	width: 20%;
+	padding-right: 0.5em;
+}
+
+/* Customizing my References*/
+
+ul.credits
+{
+	font-size: 13px;
+}

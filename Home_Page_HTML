@@ -1,0 +1,74 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+	<title>ICS Assignment - Naeem Budhwani</title>
+	<link href="default.css" rel="stylesheet" type="text/css" />
+   </head>
+   <body>
+	<h1>Welcome to Naeem Budhwani&#39;s Webpage&#33;</h1>
+		<div id="nav-menu">
+			<ul>
+				<li><a href="Autobiography/index.html"><span>Autobiography</span></a></li>
+				<li><a href="About Me/AboutMe.html">Peer Marking</a></li>
+				<li><a href="All About Me/AboutMe.html">About Me</a></li>
+				<li><a href="Definition Page/index.html">Glossary</a></li>
+				<li><a href="Basic Computer Glossary/index.html">Basic Glossary</a></li>
+			</ul>
+		</div>
+	<h2>My Blogger Account</h2>
+	<p>Every day I post a blog regarding my day in my computer science class. To see this blog, <a href="http://naeem-computerscience.blogspot.com">click here</a>.</p>
+
+	<h2>My Wikipsaces Account</h2>
+	<p>In the start of the year, my homeroom teacher at Victoria Park C.I., Mr. Arkin, created a Wikispaces account for the school. There, computer science students &#40;such as myself&#33;&#41; can ask questions and post responses regarding assignments, homework, etc. It is a great tool. My Wikispaces ID is the following&#58; BudhwaniN</p>
+
+	<h2>A Quote By Naeem Budhwani</h2>
+	<p class="quote"><img src="Index Images/Arrow.bmp" alt="Quote" class="quoteimage"/>Imagine being in possession of such a power that could destroy you... and the world.</p>
+
+	<h2>A Nutshell About Me (A caption from my Fictious Autobiography)</h2>
+	<p>Energy Sourcing&#58; The ability to draw power from a source and transforming it into energy used by the brain&#59; resulting in ultimate possession of power. Yes, strangely enough, such a concept exists. In me. I have had, at one point in my life, the ability to turn the power of the Sun into whatever I wish from fireballs to a Psionic Blast. I have, in the palm of my hand, the force that could shred a person to shreds. The only problem is that I have not yet mastered the methods of which to use this extraordinary feat. Interesting story, eh&#63; Use the magic toolbar on the top of the screen to scroll through my life&#39;s works and autobiography.</p>
+
+	<h2>My Name</h2>
+	<p>It is a requirement to write my name on this site. Well, here it goes... NAEEM BUDHWANI! Enjoyed it, eh&#63;</p>
+
+	<h2>Peer Marking</h2>
+	<p>The link for the Peer Mark by Shreya Savanur can be found by this <a href="touque.html"><span>Peer Marking</span></a></p>
+
+	<h2>Credits</h2>
+	<p>This section is to give credit to websites from which I recived information, codes, etc. from. Firstly I&#39;d like to give a shout out to Web Monkey for Special Character Codes and W3C for validating my HTML and CSS pages, as well as giving me three nice buttons which you could find at the bottom of every page on my website. Their links are the following respectively&#58;Click <a href="http://www.webmonkey.com/2010/02/special_characters/">me</a> to find special character codes. Click <a href="http://www.w3.org/">me</a> to validate your websites and receive free information regarding CSS and HTML codes.
+	   Now, next up is the background image for my Navigation Bar on the home page. Isn&#39;t it beautiful&#33; This image comes from a Google Images Site which is Crystal XP.net. <a href="http://www.crystalxp.net/galerie/en.id.14595-leaf-gradient-pack--omohit-wallpapers.htm">Click here</a> to view other visual resources from this site. The following is the images on the autobiography. Interestingly, that is the same site as the Index Page's background&#33; To visit this amazing site which contains over 10 million images, click <a href="http://www.clipart.com/en/">here</a>. Next is the Arrow Image for the Quote on the Index page. This came from wix.com. Finally, the two remaining background came from Google Images. Well, those are the credits and hopefully, you will visit these links and make your site as cool as mine&#33; All images were retrieved from the 24&#45;25 of September, excluding the Arrow for the quote. That image was retrieved sometime from the September 6&#45;21. To conclude, have a nice time at
+          these sites.</p>
+
+	<h2>Culminating Activity</h2>
+	<p>Click <a href="TouringTuring2/index.html">here</a> to view the progress on my culminating activity.</p>
+
+	<h2>Printer Comparison Project</h2>
+	<p>In computer science class, we have received yet another assignment. Its purpose is to compare two printers and list a conclusion of the most efficient and reasonable buy. To view this page, click <a href='Printer Assignment/Printer Home/index.html'>here</a>. For this assignment, I coded a new layout made of tables. I hope you like it! Feel free to leave a comment on the discussion forum.</p>
+
+	<h2>Mosaic Project</h2>
+	<p>To view it click <a href="Mosaic/index.html">here</a>.</p>
+	<p>
+    		<a href="http://validator.w3.org/check?uri=referer"><img
+        	src="http://www.w3.org/Icons/valid-xhtml10"
+        	alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+  	</p>
+	<p>
+    		<a href="http://jigsaw.w3.org/css-validator/check/referer">
+        	<img style="border:0;width:88px;height:31px"
+          	src="http://jigsaw.w3.org/css-validator/images/vcss"
+           	alt="Valid CSS!" />
+    		</a>
+	</p>
+
+	<p>
+		<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    		<img style="border:0;width:88px;height:31px"
+       		src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        	alt="Valid CSS!" />
+		</a>
+	</p>
+
+   </body>
+</html>

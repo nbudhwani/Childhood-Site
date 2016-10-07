@@ -1,0 +1,117 @@
+/* My Background and Body Border */
+
+body
+{
+	font-size: 20px;
+	background-image: url('Index Images/img_bg.bmp');
+	background-attachment:fixed;
+	border-left-style: groove;
+	border-left-color: #003366 /* Blue */;
+	border-left-width: 15px;
+	border-bottom-style: ridge;
+	border-bottom-color: #009999 /*Greenish Blue */;
+	border-bottom-width: 25px;
+}
+
+/* My Header and Header Border */
+
+h1
+{
+	text-align:center;
+	font-family: "Century Gothic";
+	color: #0066CC /* Medium Dark Blue */;
+	border-left-style: groove;
+	border-left-color: #003366 /* Blue */;
+	border-left-width: 15px;
+	border-bottom-style: ridge;
+	border-bottom-color: #009999 /*Greenish Blue */;
+	border-bottom-width: 25px;
+}
+
+
+/* Customizing the Text */
+
+
+h2
+{
+	font-family: "Arial Narrow";
+	color: green;
+}
+
+
+p
+{
+	text-indent: 50px;
+}
+
+h1, h2, p
+{
+	padding-left: 1em;
+}
+
+/* Customizing Paragraph Class quote  */
+
+p.quote
+{
+	font-size: x-large;
+	margin-bottom: 4em;
+	font-family: "Gill Sans MT";
+	color: blue;
+}
+
+/* Customizing Image Class quoteimage */
+
+img.quoteimage
+{
+	float: left;
+}
+
+/* Rules for My Navigtion Bar */
+
+	#nav-menu ul
+	{
+		list-style: none;
+		padding-left: 21em;
+		margin-bottom: 3em;
+	}
+
+		#nav-menu li
+		{
+			margin: 0 0.15em;
+		}
+
+
+
+			#nav-menu li a
+			{
+				background: url(navbar_bg.bmp) bottom left repeat-x;
+				height: 2em;
+				line-height: 2em;
+				width: 9em;
+				display: block;
+				border: 0.1em solid #dcdce9 /* A light shade of Purple */;
+				color: white;
+				text-decoration: none;
+				text-align: center;
+				font-size: 17px;
+			}
+
+
+			#nav-menu
+			{
+				width:30em
+			}
+
+				#nav-menu li a:hover
+				{
+					background-color: #339999 /* Green-Blue */;
+					height: 2em;
+					line-height: 2em;
+					width: 9em;
+					display: block;
+					border: 0.1em solid #dcdce9 /* A light shade of Purple */;
+					color: #33CCFF /* Light Blue */;
+					text-decoration: underline;
+					text-align: center;
+					font-style: oblique;
+				}
